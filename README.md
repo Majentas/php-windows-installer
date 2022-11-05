@@ -1,6 +1,10 @@
 # php-windows-installer
 Exe file that install php in C:\Program Files (x86)\Php and add environement variable
 
+
+*DO NOT CHANGE DESTINATION PATH*
+
+
 You can verify if the installation is good with "php -v" in cmd
 
 it should say :
